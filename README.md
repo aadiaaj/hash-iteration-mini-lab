@@ -10,6 +10,7 @@
 | Beijing       | 2008      |
 | London        | 2012      |
 
+
 ### Add A Key Value Pair
 The 1996 summer olympics took place in Atlanta. Add this information to the hash.
 
